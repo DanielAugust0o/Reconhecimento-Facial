@@ -1,4 +1,4 @@
- <title Align="Center" Font-size="16px"> Algoritmo EigenFace </title>
+# Algoritmo EigenFace
  <h3 Align="justify"><p>O EigenFace utiliza algumas características do rosto para detecção facial, como os aspectos faciais como o formato do rosto, olhos, boca e nariz.<br>
 <p>Ele usa desse mecanismo para o reconhecimento facial, primeiramente o algoritmo reconhece as
 principais características do rosto e posteriormente ele descarta as outras informações que não são relevantes para a detecção facial. Este processo é nomeado como Análise de Componentes Principais.<br>
