@@ -6,7 +6,7 @@ principais características do rosto e posteriormente ele descarta as outras inf
 </h2>
 <br>
 <div Align="center">
-<img src="https://www.baeldung.com/wp-content/uploads/sites/4/2023/03/eigenface_example.png" alt="Img_eigen"  height="250" width="750"><br>
+<img src="https://www.baeldung.com/wp-content/uploads/sites/4/2023/03/eigenface_example.png" alt="Img_eigen"  height="250" width="750">
 <h5>EigenFace</h5>
 </div?>
  
