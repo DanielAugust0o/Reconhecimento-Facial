@@ -5,6 +5,9 @@ principais características do rosto e posteriormente ele descarta as outras inf
 <p>Após extrair as principais características das faces, o classificador irá gerar diversas EigenFace (Fotos fantasmas). A soma de todos os pesos fará que ele gere uma face média e com a computação linear será possível a reconstrução da face original.
 </h2>
 <br>
-<img src="https://www.baeldung.com/wp-content/uploads/sites/4/2023/03/eigenface_example.png" alt="Img_eigen" Align="center" height="250" width="750">
+<div Align="center">
+<img src="https://www.baeldung.com/wp-content/uploads/sites/4/2023/03/eigenface_example.png" alt="Img_eigen"  height="250" width="750"><br>
+<h5>EigenFace</h5>
+</div?>
  
  
