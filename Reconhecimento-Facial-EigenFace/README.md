@@ -1,3 +1,3 @@
- # Alguritmo EigenFace
+ # Algoritmo EigenFace
  
  
