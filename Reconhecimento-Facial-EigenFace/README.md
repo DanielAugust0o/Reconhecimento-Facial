@@ -8,6 +8,4 @@ principais características do rosto e posteriormente ele descarta as outras inf
 <div Align="center">
 <img src="https://www.baeldung.com/wp-content/uploads/sites/4/2023/03/eigenface_example.png" alt="Img_eigen"  height="250" width="750">
 </div>
- <h2>Como funciona o código</h2>
- <h3>Captura</h3><br>
- <h2>Nessa parte do código foi utilizado a importação cv2 e Numpy do OpenCV. Juntamente a isso foi chamado os classificadores que realiza a detecção da face e os olhos, foi chamado o método que realiza a captação da imagem com o a webcam, após isso será inserido o número de amostras que será capturada e armazenadas, será solicitado para o usuário nomear os arquivos (id) e após isso determinado o tamanho da imagem capturada (220x220).</h2>
+
