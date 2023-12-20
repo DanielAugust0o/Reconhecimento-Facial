@@ -3,6 +3,6 @@
 </h2>
 <br>
 <div Align="center">
-<img src="https://www.researchgate.net/profile/Editor-Ijmtst/publication/354249199/figure/fig2/AS:1062900923916289@1630426736218/FigureFace-recognition-Precisely-FisherFaces-face-recognizer-algorithm-extracts.png" alt="Img_fisher"  height="250" width="750">
+<img src="https://iq.opengenus.org/content/images/2019/10/pc.png" alt="Img_fisher"  height="250" width="750">
 </div>
 
