@@ -19,7 +19,7 @@ while (True):
         id, confianca = reconhecedor.predict(imagemFace)
         nome = ""
         if id == 1:
-            nome = 'Face_UM'
+            nome = 'Face_UM'  #EDITAR DE ACORDO COM AS FACES DO TREINAMENTO
         elif id == 2:
             nome = 'Face_DOIS'
         cv2.putText(imagem, nome, (x, y +(a+30)), font, 2, (0, 0, 255))
